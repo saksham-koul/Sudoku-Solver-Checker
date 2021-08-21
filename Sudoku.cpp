@@ -1,6 +1,6 @@
 /*
 Sudoku Solver and Checker
-By - Saksham Koul, 2K19/CO/333
+By - Saksham Koul
 */
 #include <bits/stdc++.h>
 #include<windows.h>
