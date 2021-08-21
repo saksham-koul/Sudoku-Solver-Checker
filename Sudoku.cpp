@@ -461,7 +461,7 @@ int main()
     int i,j,choice;
     
     char *welcome = "Welcome to the SUDOKU SOLVER and CHECKER";
-    char *credits = "Prepared by Saksham Koul, 2K19/CO/333";
+    char *credits = "Prepared by Saksham Koul";
     char *menu = "Game Menu :";
 	char *option1 = "1. Enter a sudoku to be solved by the program.";
     char *option2 = "2. Solve a sudoku given by the program.";
