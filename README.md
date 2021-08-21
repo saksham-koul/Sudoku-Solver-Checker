@@ -13,6 +13,9 @@ A C++ program that could solve a sudoku provided to it or check the correctness 
 * Each time a path is tested, if a solution is not found, the algorithm ‘backtracks’ to test another possible path and so on till a solution is found or all paths have been tested.
 * Based on Depth – First search.
 
+![Sudoku_solved_by_bactracking](https://user-images.githubusercontent.com/78582744/130322282-da94db88-e0c1-4be0-b19f-3729ea5e2be4.gif)
+(Img source : [Wikipedia](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms#/media/File:Sudoku_solved_by_bactracking.gif))
+
 ### Advantages of the backtracking algorithm
 * It is guaranteed to find a solution if there is one, simply because it eventually tries every possible number in every possible location. 
 * Solving time is mostly unrelated to degree of difficulty.
