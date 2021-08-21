@@ -30,7 +30,10 @@ A C++ program that could solve a sudoku provided to it or check the correctness 
 
 ## Output samples
 Sample 1
+![Output sample 1](https://user-images.githubusercontent.com/78582744/130320537-3c1f4a7f-3101-418b-8dd2-566d31f6e509.png)
 
 Sample 2
+![Output sample 2](https://user-images.githubusercontent.com/78582744/130320542-bb923e4d-32ab-45a9-8683-077b10ae5d85.png)
 
 Sample 3
+![Output sample 3](https://user-images.githubusercontent.com/78582744/130320544-12bd6810-9e04-4231-8023-9a8bf40c9dcd.png)
